@@ -1,0 +1,45 @@
+USE CASE DIAGRAM
+
+est une représentation graphique des interactions possibles d’un utilisateur avec un système. Un USE CASE montre différents cas d’utilisation et différents types d’utilisateurs du système et sera souvent accompagné d’autres types de diagrammes. Les cas d’utilisation sont représentés par des cercles ou des ellipses. Les acteurs sont souvent montrés comme des personnages de bâton.
+
+
+
+
+ACTIVITY DIAGRAM
+
+Le diagramme d'activité est un diagramme comportemental d'UML, permettant de représenter le déclenchement d'événements en fonction des états du système et de modéliser des comportements parallélisables (multi-threads ou multi-processus). Le diagramme d'activité est également utilisé pour décrire un flux de travail (workflow).
+
+SEQUENCE DIAGRAM
+
+sont la représentation graphique des interactions entre les acteurs et le système selon un ordre chronologique dans la formulation Unified Modeling Language.
+
+
+
+fonctionnalite:
+
+	se connecter
+	se deconnecter
+	creer	
+	modifier
+	supprimer
+	afficher
+
+n'est pas une focntionnalité
+
+	naviguer
+	remplir formulaire
+	gérer ( c'est le regroupement de creer, modifier, supprimer, afficher)
+
+
+
+Star UML
+
+DIAGRAM
+		MODEL
+		ADD DIAGRAM
+		activity diagram
+
+
+Le robot dans le systeme d'inforamtion en premier
+Nettoyage de la base de données par le systeme d'information pour eviter d'infecter la BDD
+
